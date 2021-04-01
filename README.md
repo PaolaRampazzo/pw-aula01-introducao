@@ -1,5 +1,5 @@
-# pw-aula01-introducao
+# pw-fundamentos-react
 
-Fundamentos básicos do React JS
+Sequência de aulas sobre fundamentos do React JS
 
 Autor: Paola
